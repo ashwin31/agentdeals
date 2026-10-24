@@ -38224,6 +38224,23 @@
           "read_on": "2026-10-11"
         }
       ]
+    },
+    {
+      "vendor": "OnlineCompiler.io",
+      "category": "IDE & Code Editors",
+      "description": "Code execution API for 46 languages. The Free plan includes 100,000 runs a month with commercial use and no credit card, 30 runs a minute, test-case judging, Judge0- and Piston-compatible endpoints, an embeddable editor and a hosted MCP server.",
+      "tier": "Free",
+      "url": "https://onlinecompiler.io/pricing?utm_source=agentdeals",
+      "tags": [
+        "code-execution",
+        "compiler-api",
+        "sandbox",
+        "judge0-alternative",
+        "mcp",
+        "developer-tools",
+        "free-for-dev"
+      ],
+      "verifiedDate": "2026-10-24"
     }
   ],
   "changes": []
